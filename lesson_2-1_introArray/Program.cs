@@ -1,4 +1,4 @@
-﻿int Max(int arg1, int arg2, int arg3) // Max - функция поиска боьшего числа из 3-х
+﻿int Max(int arg1, int arg2, int arg3) // Max - функция поиска большего числа из 3-х
 {
     int result = arg1;
     if(arg2 > result) result = arg2;
