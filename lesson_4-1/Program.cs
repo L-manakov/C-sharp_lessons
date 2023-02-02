@@ -1,4 +1,4 @@
-﻿int[,] pic = new int[,];
+﻿int[,] pic = new int[24,25];
 
 void PrintImage(int[,] image)   
 {
